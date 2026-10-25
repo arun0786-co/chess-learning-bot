@@ -1,0 +1,16 @@
+pawn 0.0443036
+knight 0.129358
+bishop 0.0692027
+rook 0.253408
+queen 0.596106
+bishop_pair 0.126593
+mobility -0.100036
+pawn_advance 0.18891
+passed_pawn -0.0469894
+doubled_pawn -0.0950951
+isolated_pawn 0.032426
+center 0.1003
+king_shelter -0.00526953
+rook_open_file 0.077446
+in_check 0.092658
+tempo 0.0190875

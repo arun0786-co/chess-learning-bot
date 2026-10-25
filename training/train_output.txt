@@ -1,0 +1,40 @@
+gen 1: 200 games (16W 28B 156D, 69 plies avg), 13783 positions, loss 0.6880, new vs best 76% (+197 elo) KEPT  [7s]
+        piece weights now: P -0.06  N 0.03  B 0.07  R 0.18  Q 0.20
+gen 2: 200 games (32W 39B 129D, 101 plies avg), 33985 positions, loss 0.6821, new vs best 54% (+30 elo) dropped  [12s]
+        piece weights now: P -0.06  N 0.03  B 0.07  R 0.18  Q 0.20
+gen 3: 200 games (36W 41B 123D, 103 plies avg), 54638 positions, loss 0.6782, new vs best 60% (+70 elo) KEPT  [12s]
+        piece weights now: P 0.02  N 0.17  B 0.13  R 0.26  Q 0.54
+gen 4: 200 games (49W 33B 118D, 116 plies avg), 64139 positions, loss 0.6716, new vs best 58% (+53 elo) KEPT  [13s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 5: 200 games (42W 39B 119D, 113 plies avg), 66559 positions, loss 0.6726, new vs best 46% (-26 elo) dropped  [13s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 6: 200 games (45W 45B 110D, 109 plies avg), 67649 positions, loss 0.6731, new vs best 49% (-9 elo) dropped  [13s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 7: 200 games (45W 42B 113D, 110 plies avg), 66432 positions, loss 0.6702, new vs best 49% (-4 elo) dropped  [13s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 8: 200 games (45W 47B 108D, 108 plies avg), 65464 positions, loss 0.6670, new vs best 50% (-0 elo) dropped  [13s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 9: 200 games (53W 43B 104D, 117 plies avg), 67174 positions, loss 0.6622, new vs best 54% (+30 elo) dropped  [14s]
+        piece weights now: P 0.04  N 0.13  B 0.07  R 0.25  Q 0.60
+gen 10: 200 games (45W 38B 117D, 113 plies avg), 67709 positions, loss 0.6697, new vs best 57% (+48 elo) KEPT  [14s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 11: 200 games (52W 36B 112D, 111 plies avg), 68200 positions, loss 0.6702, new vs best 39% (-75 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 12: 200 games (52W 42B 106D, 118 plies avg), 68324 positions, loss 0.6715, new vs best 53% (+22 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 13: 200 games (51W 44B 105D, 115 plies avg), 68635 positions, loss 0.6611, new vs best 54% (+26 elo) dropped  [16s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 14: 200 games (50W 47B 103D, 114 plies avg), 69309 positions, loss 0.6578, new vs best 48% (-17 elo) dropped  [16s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 15: 200 games (39W 49B 112D, 114 plies avg), 68526 positions, loss 0.6604, new vs best 50% (-0 elo) dropped  [16s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 16: 200 games (53W 47B 100D, 111 plies avg), 67899 positions, loss 0.6644, new vs best 46% (-30 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 17: 200 games (45W 43B 112D, 109 plies avg), 66915 positions, loss 0.6719, new vs best 45% (-35 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 18: 200 games (47W 39B 114D, 109 plies avg), 65950 positions, loss 0.6702, new vs best 43% (-48 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 19: 200 games (55W 35B 110D, 109 plies avg), 65510 positions, loss 0.6680, new vs best 48% (-17 elo) dropped  [15s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49
+gen 20: 200 games (57W 34B 109D, 112 plies avg), 66026 positions, loss 0.6575, new vs best 45% (-35 elo) dropped  [16s]
+        piece weights now: P 0.02  N 0.05  B 0.13  R 0.25  Q 0.49

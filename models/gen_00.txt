@@ -1,0 +1,16 @@
+pawn 0
+knight 0
+bishop 0
+rook 0
+queen 0
+bishop_pair 0
+mobility 0
+pawn_advance 0
+passed_pawn 0
+doubled_pawn 0
+isolated_pawn 0
+center 0
+king_shelter 0
+rook_open_file 0
+in_check 0
+tempo 0
